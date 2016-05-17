@@ -3,8 +3,6 @@
  *
  * Simple dummy server for TDDD97
  *
- * If you're a student, you shouldn't need to look through this file,
- *  the description of how it works is in the lab instructions.
  **/
 var serverstub = (function() {
     'use strict';
